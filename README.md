@@ -1,4 +1,4 @@
-# Hand Built Data-Sets
+# Personally Built or Acquired Data Sets for Analytics
 ### Gavin South
 
 A collection of data files and documentation for analysis and collection. 
