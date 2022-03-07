@@ -1,5 +1,5 @@
 # Personally Built or Acquired Data Sets for Analytics
-### Gavin South
+### Curator: Gavin South
 
 A collection of data files and documentation for analysis and collection. 
 
